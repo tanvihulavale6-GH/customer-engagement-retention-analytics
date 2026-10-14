@@ -24,8 +24,8 @@ This project analyzes banking customer engagement, product utilization, churn, a
 4. Retention Strength & Recommendations
 
 ## Project Files
-- Power BI dashboard (.pbix)
-- Research paper (.pdf)
+- Power BI dashboard
+- Research paper 
 
 ## Conclusion
 The dashboard provides an interactive view of customer behavior and retention patterns to support business analysis and decision-making.
